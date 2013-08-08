@@ -36,19 +36,19 @@ myprogram arg1 arg2 arg3
 ## Functions
 ### Built-in functions
 * Repeat this test CNT times  
-    ```
-    $repeat(CNT)
-    ```
+```
+$repeat(CNT)
+```
 
 ### External functions
 * Random integer in interval [MIN..MAX)  
-    ```
-    $rnd(MIN,MAX,STEP=1)
-    ```
+```
+$rnd(MIN,MAX,STEP=1)
+```  
 * Random float in interval [MIN..MAX)  
-    ```
-    $frnd(MIN=0,MAX=1)
-    ```
+```
+$frnd(MIN=0,MAX=1)
+```
 
 ### Argument types in functions
 * int
